@@ -1,13 +1,13 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/photo-ranee.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I have always been interested in the human body and how it works. As a small child my father would often find me with our Encyclopedia Britannica open at the “human body” section. My parents always thought I would be a doctor but as I got older I learnt that what interests me is how our bodies respond to food.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I spent many years “dieting” trying to find the perfect fit for me. Whenever I was eating great healthy food I always felt great. This lead me to realise that what we eat has a great influence on not only how we look but also how we perform and how we feel.  
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I spent over 5 years in the weight loss industry helping people achieve and maintain their weight loss goals. It was very rewarding to see the impact that balanced eating had on people’s lives but I wanted to understand more. I spent time at University learning about how our bodies work and then furthered my formal education specialising in nutrition.  
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+With a BSc in biochemistry and a Graduate Diploma in human nutrition I am well qualified and I look forward to working with you to achieve your nutrition goals.
